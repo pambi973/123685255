@@ -1,0 +1,15 @@
+IAM indentity acess management
+identity for whom users/groups/roles
+acess which services policy
+least privilage
+organization admin
+between the accounts IAM crossing can be done
+
+
+IAM groups 
+A collection of i am users
+
+create a group
+group can have policies
+
+100 groups per account
